@@ -2,14 +2,15 @@
 
 **Bem vindo(a)** ao meu `README.md`.
 
-Muito prazer, me chamo Tiago, sou Designer de nascença e "arteiro," crio e recrio coisas e soluções desde 2009...<br>
-Formado em Análise e Desenvolvimento de Sistemas pela UNIP e Front End pelo SENAI.<br>
+Muito prazer, me chamo Tiago, sou Docente no SENAI no curso de Desenvolvimento de Sistemas <br>
+Antes disso, atuei como Designer e "arteiro," criando e recriando coisas e soluções desde 2009...<br>
+Formado em Análise e Desenvolvimento de Sistemas pela UNIP, Front End pelo SENAI e Back End pela Cubos Academy.<br>
 Sou Desenvolvedor de Software Full Stack e busco ser como criança em constante aprendizado e cheio de por quês?⚡😄
 
-- 🔭 Atualmente trabalho como Front-End na [JavaCoders](https://github.com/JavaCoders-org) no projeto [Money Master](https://github.com/JavaCoders-org/money-master-frontend)
-- 🌱 Estudo Back-End na [Cubos Academy](https://github.com/cubos-academy), previsão de conclusão NOV/2023
-- 👯 Procuro por oportunidades em ambientes colaborativos e que favoreçam o desenvolvimento e carreira
-- 😄 Tenho um background como Designer Gráfico e isso vai no pacote
-- 💬 Fique a vontade no meu repositório, deixe sua contribuição, feedback e sinta-se convidado a entrar em contato!
-- 📫 [Email](mailto:tiagonevestec@gmail.com)
-- ⚡ [LinkedIn](https://linkedin.com/in/tiagosfneves)
+- 🚀 Atualmente trabalho como Docente no [SENAI](https://www.linkedin.com/company/senaileopoldina/);
+- 🌱 Estudos Extras em Back-End na [Cubos Academy](https://github.com/cubos-academy) e Front End no [SENAI Osasco](https://www.linkedin.com/company/senai-osasco/);
+- 👯 Procuro por oportunidades em ambientes colaborativos, insentivo ao desenvolvimento profissional e carreira;
+- 😄 Tenho um background como Designer Gráfico e isso vai no pacote, além de habilidades comerciais e comunicação;
+- 💬 Fique à vontade no meu repositório, deixe sua contribuição, feedback e sinta-se convidado a entrar em contato!
+- 📫 Clique Aqui para enviar um [E-mail](mailto:tiagonevestec@gmail.com)
+- ⚡ E clicando aqui você vai para o meu [LinkedIn](https://linkedin.com/in/tiagosfneves)
